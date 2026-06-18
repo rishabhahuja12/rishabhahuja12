@@ -216,22 +216,6 @@ leadership: Secretary, ACM Student Chapter
 | 🏆 | **Hitnext Challenge by GDSC** | `Winner` |
 | 🚀 | **Smart India Hackathon** | `Participant` |
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rishabhahuja12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rishabhahuja12&theme=tokyonight&hide_border=true&background=0d1117" width="48%" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishabhahuja12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=8" width="40%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhahuja12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" width="95%" alt="Contribution Graph" />
-</p>
 
 <p align="center">
   <picture>
