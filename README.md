@@ -233,6 +233,14 @@ leadership: Secretary, ACM Student Chapter
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhahuja12&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae" width="95%" alt="Contribution Graph" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rishabhahuja12/rishabhahuja12/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rishabhahuja12/rishabhahuja12/output/github-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/rishabhahuja12/rishabhahuja12/output/github-snake.svg" width="95%" />
+  </picture>
+</p>
+
 ---
 
 <!-- Footer -->
