@@ -27,16 +27,23 @@
 
 ---
 
-## 🧑‍💻 About Me
+## ⚡ About Me
 
-```yaml
-name: Rishabh Ahuja
-location: Indore, India
-education: B.Tech Computer Engineering @ NMIMS (2023-2027) | CGPA 3.49/4.0
-focus: Backend Systems · AI/ML Pipelines · Data Analytics · Full-Stack Apps
-currently_building: E-Commerce Churn Risk & Retention BI Dashboard
-leadership: Secretary, ACM Student Chapter
+```bash
+$ whoami
+> Rishabh Ahuja — Backend · AI/ML · Full-Stack · Data Analytics
+
+$ cat education.txt
+> B.Tech Computer Engineering @ NMIMS Indore (2023-2027) | CGPA 3.49/4.0
+
+$ ls achievements/
+> nptel-dbms-top5%   nptel-ai-silver-medal   gdsc-hitnext-winner
+
+$ cat fun_fact.txt
+> Trained a 3D medical imaging transformer on just 8GB VRAM
 ```
+
+---
 
 - 🔭 I build **production-grade ML pipelines** and **scalable backend architectures**
 - 🧠 I bridge the gap between **deep learning research** and **software engineering**
