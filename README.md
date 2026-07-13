@@ -65,9 +65,6 @@ I ship things that work — from a 3D brain tumor segmentation model trained on 
 **[3D Brain Tumor Segmentation](https://github.com/rishabhahuja12/brain-tumor-segmentation)** — benchmarked nnU-Net (CNN) vs Swin-UNETR (Transformer) on BraTS 2020 multi-modal MRI. Achieved 0.8626 mean Dice with gradient checkpointing, soft-voting ensembling, and test-time augmentation — all on 8GB VRAM.
 `Python` `PyTorch` `MONAI` `CUDA`
 
-**[Skinfluence](https://github.com/rishabhahuja12/skinfluence)** · [Live Demo](https://skinfluence.onrender.com) — full-stack dermatology clinic portal with a CMS admin dashboard, token-based auth, SMTP email integration, and an SMTP-to-HTTPS API fallback to bypass cloud hosting port blocks.
-`Node.js` `Express` `PostgreSQL` `Prisma`
-
 **[E-Commerce Microservices](https://github.com/rishabhahuja12/ecommerce--backend-project)** — Dockerized Spring Boot microservices with database-per-service boundaries. Backend-driven transaction checks prevent client-side price manipulation.
 `Java` `Spring Boot` `MySQL` `Docker`
 
